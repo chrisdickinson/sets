@@ -1,7 +1,7 @@
 {
   "name": "@sets/intersection",
   "version": "1.0.0",
-  "description": "",
+  "description": "Return the intersection between two sets.",
   "main": "set-intersection.js",
   "scripts": {
     "test": "tap test.js",
