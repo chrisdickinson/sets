@@ -1,0 +1,19 @@
+{
+  "name": "@sets/union",
+  "version": "1.0.0",
+  "description": "return the union of two sets",
+  "main": "set-union.js",
+  "scripts": {
+    "test": "tap test.js",
+    "posttest": "standard"
+  },
+  "author": "Chris Dickinson <chris@neversaw.us> (http://neversaw.us/)",
+  "license": "MIT",
+  "dependencies": {
+    "@iterables/chain": "^1.0.1"
+  },
+  "devDependencies": {
+    "standard": "^10.0.1",
+    "tap": "^10.3.2"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@sets/intersection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "set-intersection.js",
+  "scripts": {
+    "test": "tap test.js",
+    "posttest": "standard"
+  },
+  "keywords": [],
+  "author": "Chris Dickinson <chris@neversaw.us> (http://neversaw.us/)",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^10.0.1",
+    "tap": "^10.3.2"
+  },
+  "dependencies": {
+    "@iterables/chain": "^1.0.1",
+    "@iterables/filter": "^1.0.2"
+  }
+}

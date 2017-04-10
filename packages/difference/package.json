@@ -1,0 +1,20 @@
+{
+  "name": "@sets/difference",
+  "version": "1.0.0",
+  "description": "return the difference between two sets",
+  "main": "set-difference.js",
+  "scripts": {
+    "test": "tap test.js",
+    "posttest": "standard"
+  },
+  "author": "Chris Dickinson <chris@neversaw.us> (http://neversaw.us/)",
+  "license": "MIT",
+  "dependencies": {
+    "@iterables/chain": "^1.0.1",
+    "@iterables/filter": "^1.0.2"
+  },
+  "devDependencies": {
+    "standard": "^10.0.1",
+    "tap": "^10.3.2"
+  }
+}
