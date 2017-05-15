@@ -1,6 +1,6 @@
 {
   "name": "@sets/union",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "return the union of two sets",
   "main": "set-union.js",
   "scripts": {

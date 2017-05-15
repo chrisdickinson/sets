@@ -1,6 +1,6 @@
 {
   "name": "@sets/intersection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Return the intersection between two sets.",
   "main": "set-intersection.js",
   "scripts": {
