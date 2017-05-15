@@ -7,6 +7,10 @@
     "test": "tap test.js",
     "posttest": "standard"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/sets.git"
+  },
   "author": "Chris Dickinson <chris@neversaw.us> (http://neversaw.us/)",
   "license": "MIT",
   "dependencies": {
